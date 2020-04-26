@@ -3,6 +3,8 @@
 A new Flutter application.
 
 ## Getting Started
+[![home-play.jpg](https://i.postimg.cc/zBXzkcKF/home-play.jpg)](https://postimg.cc/TyFvdQkK)
+[![play-screen.jpg](https://i.postimg.cc/YSx2YHGS/play-screen.jpg)](https://postimg.cc/Ff7QXwxt)
 
 This project is a starting point for a Flutter application.
 
